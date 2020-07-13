@@ -76,6 +76,8 @@ Code snippet goes here
 
 ![Image](/images/bg3.jpg)
 
+My favourite emojis :smiley: Find them [here](https://gist.github.com/rxaviers/7360908)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
