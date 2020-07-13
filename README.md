@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my first website!
+
+I have built this website using GitHub pages, jekyll(blog-aware static site generator)
 
 You can use the [editor on GitHub](https://github.com/swarada189/swarada189.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
