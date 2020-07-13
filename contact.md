@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Contact
-tagline: Create a contact form and you are good to go
+tagline: Let's connect
 ref: contact
 order: 1
 ---
+Feel free to drop me an email at adavadkar.swarada@gmail.com
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why you need a third part service.
+Find me on [LinkedIn](https://www.linkedin.com/in/swarada/) 
 
 [Go to the Home Page]({{ '/' | absolute_url }})
