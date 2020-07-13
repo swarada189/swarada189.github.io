@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: A few words about me
 permalink: /about.html
 ref: about
 order: 0
@@ -12,3 +12,5 @@ Throughout my academic years, I have acquired skills including machine learning,
 I also have development experience building web applications and interactive dashboards. My love for programming continues from high school till date.
 
 I truly believe in the impact that data can have in decision making for multitude of businesses. I find myself extremely fascinated by the advancements in technology and possess insatiable curiosity to know and learn new things. I am always happy to impart my knowledge to others in a comprehensible manner. 
+
+[Go to the Home Page]({{ '/' | absolute_url }})
